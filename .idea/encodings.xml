@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/data/testCaesar.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/mysteryTwoKeysQuiz.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/CaesarCipher.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/WordPlay.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test/TestWordPlay.java" charset="UTF-8" />
